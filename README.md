@@ -23,7 +23,7 @@ Built as a hands-on security project to practice file integrity monitoring (FIM)
 
 1. Clone the repository:
    ```
-   git clone https://github.com/YourUsername/file-integrity-monitor.git
+   git clone https://github.com/SEEMSEM-cyber06/file-integrity-monitor.git
    cd file-integrity-monitor
    ```
 2. Run the script:
